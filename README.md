@@ -1,4 +1,5 @@
 <h1>Hi, I'm Osase! 
+
                   
 <h2>👩‍💻 Cybersecurity Projects:</h2>
   
@@ -16,14 +17,11 @@
   - [Find Files with Linux Commands + Manage Authorization](https://github.com/users/Osase8/projects/5/views/1?pane=issue&itemId=63210651)
   - [Create Hash Values](https://github.com/users/Osase8/projects/6/views/1?pane=issue&itemId=63210774)
 
-<h3> 🎓 Certifications: </h3>
+<h2>🎓 Certifications:</h2>
 
-- <b> Google CyberSecurity Professional Certificate</b>
-  - https://coursera.org/share/1443da14e48befbad503d37a43216823
-- <b>Analytics Bronze</b>
-  - https://cf-us1.mindtickle.com/1301341425611150296/public-content/1698696471688appoutputcertificate0tPiHnGnAi.pngPjj8.webp   
-- <b>Tools of the Trade: Linux and SQL</b>
-  - https://www.coursera.org/account/accomplishments/records/388RH5BBU33V  
+- [Google CyberSecurity Professional Certificate](https://coursera.org/share/1443da14e48befbad503d37a43216823)
+- [Analytics Bronze](https://cf-us1.mindtickle.com/1301341425611150296/public-content/1698696471688appoutputcertificate0tPiHnGnAi.pngPjj8.webp)   
+- [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/records/388RH5BBU33V)  
 
 <h2> 🤳 Connect with me:</h2>
 Linkedin: https://www.linkedin.com/in/osase-edogun-64572817b
