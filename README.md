@@ -1,19 +1,28 @@
 <h1>Hi, I'm Osase! 
                   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩‍💻 Cybersecurity Projects:</h2>
   
 - <b> Report: Analyzing a Vulnerable System for a Small Business</b>
   - [Vulnerability Assessment Report](https://github.com/users/Osase8/projects/1/views/1?pane=issue&itemId=63202595)
 - <b>The Process for Attack Simulation & Threat Analysis</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Analysis Worksheet](https://github.com/users/Osase8/projects/2/views/1?pane=issue&itemId=63202932)
+- <b> NIST Cybsersecurity Framework</b>
+  - [Using the NIST Framework to respond to an incident](https://github.com/users/Osase8/projects/4/views/1?pane=issue&itemId=63209825)
+  
+<b>Python</b>
+  - [Assigning Python Variables](https://github.com/users/Osase8/projects/3/views/1?pane=issue&itemId=63208756)
 
-Certifications
+<b>Linux</b>
+  - [Find Files with Linux Commands + Manage Authorization](https://github.com/users/Osase8/projects/5/views/1?pane=issue&itemId=63210651)
+  - [Create Hash Values](https://github.com/users/Osase8/projects/6/views/1?pane=issue&itemId=63210774)
 
-- Google CyberSecurity Professional Certificate
-  - https://coursera.org/share/48df50c0115eaf73e9a71d0e2f99e034
-- Analytics Bronze
+<h3> 🎓 Certifications: </h3>
+
+- <b> Google CyberSecurity Professional Certificate</b>
+  - https://coursera.org/share/1443da14e48befbad503d37a43216823
+- <b>Analytics Bronze</b>
   - https://cf-us1.mindtickle.com/1301341425611150296/public-content/1698696471688appoutputcertificate0tPiHnGnAi.pngPjj8.webp   
-- Tools of the Trade: Linux and SQL
+- <b>Tools of the Trade: Linux and SQL</b>
   - https://www.coursera.org/account/accomplishments/records/388RH5BBU33V  
 
 <h2> 🤳 Connect with me:</h2>
